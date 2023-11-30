@@ -100,7 +100,7 @@ export default function FrontEndDevelopment() {
       </div>
       <div className="w-full h-auto flex pb-[10%] justify-center items-center">
       <div className="w-[45%] h-full px-[10%]">
-          <h2 className="my-font text-[3vw] text-left  my-[5%] w-[80%]">CarWash</h2>
+          <h2 className="my-font text-[3vw] text-left  my-[5%] w-[80%]">3TE Carwash</h2>
           <p className="mb-[10%]">Welcome to CarWash, where we redefine car care excellence. Our website provides a seamless platform for car owners to discover our premium car wash services, schedule appointments, and experience the ultimate in vehicle pampering.</p>
           <div className="flex">
             <a href="https://carwash-6xd.pages.dev" target="blank">
