@@ -28,7 +28,7 @@ export default function Home() {
               </div>
             </a>
           </div>
-          <div className='h-full w-1/3 p-[3%] my-font'>
+{/*           <div className='h-full w-1/3 p-[3%] my-font'>
             <a href="./back-end-development">
               <div className='backdrop-blur-sm bg-white/10 h-full rounded-3xl p-[12%] relative text-center cursor-pointer hover:bg-indigo-900'>
                 <div className='w-full h-1/2 flex justify-center items-center'>
@@ -51,7 +51,7 @@ export default function Home() {
                   <p className='text-[1vw] my-font2 mt-5'>1 Project</p></div>
               </div>
             </a>
-          </div>
+          </div> */}
         </div>
       </section>
       <section className='div_backgrounds h-[100vh] flex justify-center items-center' id='my-journey'>
