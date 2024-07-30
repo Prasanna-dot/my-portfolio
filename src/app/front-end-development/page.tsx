@@ -26,7 +26,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
       </div>
-      <div className="w-full h-auto flex pb-[10%] justify-center items-center">
+      <div className="w-full h-auto lg:flex pb-[10%] justify-center items-center">
         <div className="w-[55%] h-auto bg-zinc-500 rounded-r-3xl py-2 pr-2 overflow-hidden">
           <div className="w-full h-auto overflow-hidden rounded-r-3xl">
             <Image
