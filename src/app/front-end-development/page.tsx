@@ -9,7 +9,7 @@ import Portfolio from "./../../image/portfolio.png";
 import CarWash from "./../../image/carwash.png";
 import iphone from "./../../image/iphone.png";
 import VideoEditor from "./../../image/video-editor.png";
-import gooey from "./../../image/video-editor.png";
+import gooey from "./../../image/gooey.png";
 
 const skills = ["HTML", "CSS", "Javascript", "ReactJs", "Tailwind CSS", "TypeScript", "NextJs", "Remix"]
 
@@ -64,7 +64,7 @@ export default function FrontEndDevelopment() {
         <div className="w-[55%] h-auto bg-zinc-500 rounded-l-3xl py-2 pl-2 overflow-hidden">
           <div className="w-full h-auto overflow-hidden rounded-l-3xl">
             <Image
-              src={FreshClass}
+              src={gooey}
               alt={""}
               style={{
                 height: "auto",
