@@ -7,15 +7,13 @@ import TypingEffect from '@/components/TypingEffect';
 export default function Home() {
   return (
     <>
-      <div className='overflow-hidden'>
-        
-      </div>
+      <div className='overflow-hidden'></div>
       <section className='div_backgrounds h-[100vh] w-full flex justify-center items-center' id='home'>
         <div className='w-[65%]'>
           <h1 className='my-font w-full text-left text-[6vw]'><TypingEffect text="Heey, It's Prasanna venkatesh. Full stack developer" /></h1>
         </div>
       </section>
-      <section className='div_backgrounds h-[100vh] flex justify-center items-center' id='project'>
+{/*         <section className='div_backgrounds h-[100vh] flex justify-center items-center' id='project'>
         <div className='w-[80%] h-[50vh] flex'>
           <div className='h-full w-1/3 p-[3%] my-font'>
             <a href="./front-end-development">
@@ -28,7 +26,7 @@ export default function Home() {
               </div>
             </a>
           </div>
-{/*           <div className='h-full w-1/3 p-[3%] my-font'>
+        <div className='h-full w-1/3 p-[3%] my-font'>
             <a href="./back-end-development">
               <div className='backdrop-blur-sm bg-white/10 h-full rounded-3xl p-[12%] relative text-center cursor-pointer hover:bg-indigo-900'>
                 <div className='w-full h-1/2 flex justify-center items-center'>
@@ -51,7 +49,7 @@ export default function Home() {
                   <p className='text-[1vw] my-font2 mt-5'>1 Project</p></div>
               </div>
             </a>
-          </div> */}
+          </div> 
         </div>
       </section>
       <section className='div_backgrounds h-[100vh] flex justify-center items-center' id='my-journey'>
@@ -82,7 +80,7 @@ export default function Home() {
             </div>
           </div>
       </div>
-      </section>
+      </section>*/}
     </>
   )
 }
