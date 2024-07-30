@@ -86,7 +86,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
         <div className="lg:w-[45%] w-full h-full px-[10%]">
-          <h2 className="my-font lg:text-[3vw] text-[9vw] lg:text-left text-right my-[5%] lg:w-[80%] w-full">Freshclass</h2>
+          <h2 className="my-font lg:text-[3vw] text-[9vw] my-[5%] text-left lg:w-[80%] w-full">Freshclass</h2>
           <p className="mb-[10%]">The People Management System is a comprehensive web application designed for efficient management of personnel information within an organization. Built using HTML, CSS, JavaScript, and a mock API for data storage, this system provides a centralized platform for managing employee details, roles, and access levels.An admin login is provided with credentials (email: admin@freshclass.com, password: Admin@2021)</p>
           <div className="flex">
             <a href="https://freshclass.pages.dev/" target="blank">
@@ -99,7 +99,7 @@ export default function FrontEndDevelopment() {
       </div>
       <div className="w-full h-auto flex pb-[10%] justify-center items-center lg:flex-row flex-col-reverse">
       <div className="lg:w-[45%] w-full h-full px-[10%]">
-          <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">Portfolio</h2>
+          <h2 className="my-font lg:text-[3vw] text-[9vw] lg:text-left text-right my-[5%] lg:w-[80%] w-full">Portfolio</h2>
           <p className="mb-[10%] lg:text-left text-right">The Minimal Voice Assistant and Chat Bot Portfolio is a unique and innovative showcase designed to highlight the integration of a simplistic yet efficient voice assistant and chat bot within a personal portfolio website. This portfolio stands out by incorporating two interactive elements: a voice assistant and a chat bot, built using HTML, CSS, and JavaScript.</p>
           <div className="flex lg:justify-end">
             <a href="https://my-portfolio-website-1br.pages.dev/" target="blank">
