@@ -51,13 +51,13 @@ const NavBar = () => {
 
           <div className="my-font lg:flex hidden">
           <a
-                href="/#home"
+                href="/"
                 className="font mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#ffffff] hover:bg-indigo-500"
               >
                 Home
               </a>
               <a
-                href="/#project"
+                href="/front-end-development"
                 className="mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#ffffff] hover:bg-indigo-500"
               >
                 Projects
