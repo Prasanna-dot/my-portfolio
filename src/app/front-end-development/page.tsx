@@ -39,7 +39,7 @@ export default function FrontEndDevelopment() {
             />
           </div>
         </div>
-        <div className="w-[45%] h-full px-[10%]">
+        <div className="lg:w-[45%] w-full h-full px-[10%]">
           <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] w-[80%]">TeenTechy</h2>
           <p className="mb-[10%]">The Development for Everyone website is an inclusive online platform dedicated to teaching web development skills to individuals of all backgrounds, offering free and accessible resources. Using HTML, CSS, and JavaScript, this website aims to empower learners with fundamental knowledge and practical guidance in website development.</p>
           <div className="flex">
@@ -50,8 +50,8 @@ export default function FrontEndDevelopment() {
         </div>
       </div>
       <div className="w-full h-auto lg:flex pb-[10%] justify-center items-center">
-      <div className="w-[45%] h-full px-[10%]">
-          <h2 className="my-font text-[3vw] text-left my-[5%] lg:w-[80%] w-full">Gooey</h2>
+      <div className="lg:w-[45%] w-full h-full px-[10%]">
+          <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">Gooey</h2>
           <p className="mb-[10%]">A modern bakery website crafted with Next.js, highlighting delectable baked goods with efficient server-side rendering. Deployed via Cloudflare for enhanced performance, security, and fast global content delivery. Ideal for bakeries looking to expand their online reach, providing customers with a seamless browsing experience and quick access to the latest treats and offerings.</p>
           <div className="flex justify-end">
             <a href="https://gooye.pages.dev" target="blank">
@@ -85,7 +85,7 @@ export default function FrontEndDevelopment() {
             />
           </div>
         </div>
-        <div className="w-[45%] h-full px-[10%]">
+        <div className="lg:w-[45%] w-full h-full px-[10%]">
           <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">Freshclass</h2>
           <p className="mb-[10%]">The People Management System is a comprehensive web application designed for efficient management of personnel information within an organization. Built using HTML, CSS, JavaScript, and a mock API for data storage, this system provides a centralized platform for managing employee details, roles, and access levels.An admin login is provided with credentials (email: admin@freshclass.com, password: Admin@2021)</p>
           <div className="flex">
@@ -98,7 +98,7 @@ export default function FrontEndDevelopment() {
         </div>
       </div>
       <div className="w-full h-auto lg:flex pb-[10%] justify-center items-center">
-      <div className="w-[45%] h-full px-[10%]">
+      <div className="lg:w-[45%] w-full h-full px-[10%]">
           <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">Portfolio</h2>
           <p className="mb-[10%]">The Minimal Voice Assistant and Chat Bot Portfolio is a unique and innovative showcase designed to highlight the integration of a simplistic yet efficient voice assistant and chat bot within a personal portfolio website. This portfolio stands out by incorporating two interactive elements: a voice assistant and a chat bot, built using HTML, CSS, and JavaScript.</p>
           <div className="flex justify-end">
@@ -135,7 +135,7 @@ export default function FrontEndDevelopment() {
             />
           </div>
         </div>
-        <div className="w-[45%] h-full px-[10%]">
+        <div className="lg:w-[45%] w-full h-full px-[10%]">
           <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">3TE Carwash</h2>
           <p className="mb-[10%]">Welcome to CarWash, where we redefine car care excellence. Our website provides a seamless platform for car owners to discover our premium car wash services, schedule appointments, and experience the ultimate in vehicle pampering.</p>
           <div className="flex">
@@ -148,7 +148,7 @@ export default function FrontEndDevelopment() {
         </div>
       </div>
       <div className="w-full h-auto lg:flex pb-[10%] justify-center items-center">
-      <div className="w-[45%] h-full px-[10%]">
+      <div className="lg:w-[45%] w-full h-full px-[10%]">
           <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">Video Editor</h2>
           <p className="mb-[10%]">web application that empowers users to edit and enhance videos directly within their web browser. Built with HTML, CSS, and JavaScript, this innovative platform offers a seamless and intuitive editing experience.</p>
           <div className="flex justify-end">
@@ -185,7 +185,7 @@ export default function FrontEndDevelopment() {
             />
           </div>
         </div>
-        <div className="w-[45%] h-full px-[10%]">
+        <div className="lg:w-[45%] w-full h-full px-[10%]">
           <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">Iphone</h2>
           <p className="mb-[10%]">In a time-crunch challenge, my friend dared me to craft a captivating homepage brimming with UI design effects within a mere hour – a thrilling race against the clock ensued. I have made it with HTML, CSS, Javascript</p>
           <div className="flex">
