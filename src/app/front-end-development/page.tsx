@@ -49,7 +49,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
       </div>
-      <div className="w-full h-auto lg:flex pb-[10%] justify-center items-center">
+      <div className="w-full h-auto lg:flex pb-[10%] justify-center items-center sm:flex-col-reverse">
       <div className="lg:w-[45%] w-full h-full px-[10%]">
           <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">Gooey</h2>
           <p className="mb-[10%]">A modern bakery website crafted with Next.js, highlighting delectable baked goods with efficient server-side rendering. Deployed via Cloudflare for enhanced performance, security, and fast global content delivery. Ideal for bakeries looking to expand their online reach, providing customers with a seamless browsing experience and quick access to the latest treats and offerings.</p>
@@ -60,7 +60,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
         <div className="lg:w-[55%] w-[90%] h-auto bg-zinc-500 rounded-l-3xl py-2 pl-2 overflow-hidden">
-          <div className="w-full h-auto overflow-hidden rounded-l-3xl">
+          <div className="w-full h-auto overflow-hidden rounded-l-3xl sm:block sm:ml-auto">
             <Image
               src={gooey}
               alt={""}
