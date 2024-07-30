@@ -10,7 +10,7 @@ import CarWash from "./../../image/carwash.png";
 import iphone from "./../../image/iphone.png";
 import VideoEditor from "./../../image/video-editor.png";
 
-const skills = ["HTML", "CSS", "Javascript", "ReactJs", "Tailwind CSS", "TypeScript", "NextJs"]
+const skills = ["HTML", "CSS", "Javascript", "ReactJs", "Tailwind CSS", "TypeScript", "NextJs", "Remix"]
 
 export default function FrontEndDevelopment() {
   return (
