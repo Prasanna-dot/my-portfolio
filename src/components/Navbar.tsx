@@ -105,30 +105,30 @@ const NavBar = () => {
           </div>
           <div className="h-[80vh] flex justify-center items-center">
             <div className="w-[30%] h-auto text-center">
-              <a
-                href="/" onClick={() => setMobileMenuOpen(false)}
-                className="font -mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#825846] hover:bg-gray-50"
+                       <a
+                href="/"
+                className="font mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#ffffff] hover:bg-indigo-500"
               >
                 Home
               </a>
               <a
-                href="/#project" onClick={() => setMobileMenuOpen(false)}
-                className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#825846] hover:bg-gray-50"
+                href="/front-end-development"
+                className="mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#ffffff] hover:bg-indigo-500"
               >
                 Projects
               </a>
               <a
-                href="./#my-journey" onClick={() => setMobileMenuOpen(false)}
-                className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#825846] hover:bg-gray-50"
+                href="/my-journey"
+                className="mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#ffffff] hover:bg-indigo-500"
               >
                 My journey
               </a>
-              <a
+{/*               <a
                 href="#"
                 className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#825846] hover:bg-gray-50"
               >
                 Let's Talk
-              </a>
+              </a> */}
             </div>
           </div>
         </Dialog.Panel>
