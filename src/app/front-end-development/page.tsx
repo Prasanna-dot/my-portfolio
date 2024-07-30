@@ -40,7 +40,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
         <div className="w-[45%] h-full px-[10%]">
-          <h2 className="my-font text-[3vw] text-left  my-[5%] w-[80%]">TeenTechy</h2>
+          <h2 className="my-font lg:text-[3vw] text-[6vw] text-left  my-[5%] w-[80%]">TeenTechy</h2>
           <p className="mb-[10%]">The Development for Everyone website is an inclusive online platform dedicated to teaching web development skills to individuals of all backgrounds, offering free and accessible resources. Using HTML, CSS, and JavaScript, this website aims to empower learners with fundamental knowledge and practical guidance in website development.</p>
           <div className="flex">
             <a href="https://teentechy.com" target="blank">
