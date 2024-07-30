@@ -9,7 +9,7 @@ export default function MyJourney() {
     <section className='div_backgrounds h-auto w-full'>
       <div className="w-full h-[100vh]">
         <div className="w-full h-[65vh] justify-center items-end flex">
-          <div className="overflow-hidden w-[350px] h-[350px] rounded-full bg-black mt-10">
+          <div className="overflow-hidden lg:w-[350px] lg:h-[350px] h-[200px] w-[200px] rounded-full bg-black mt-10">
             <Image
               src={MyPhoto}
               alt={""}
