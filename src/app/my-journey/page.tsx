@@ -7,9 +7,9 @@ import MyPhoto from "./../../image/IMG_1555.jpg";
 export default function MyJourney() {
   return (
     <section className='div_backgrounds h-auto w-full'>
-      <div className="w-full h-[100vh] ">
+      <div className="w-full h-[100vh]">
         <div className="w-full h-[65vh] justify-center items-end flex">
-          <div className="overflow-hidden w-[500px] h-[500px] rounded-full bg-black">
+          <div className="overflow-hidden w-[500px] h-[500px] rounded-full bg-black mt-10">
             <Image
               src={MyPhoto}
               alt={""}
