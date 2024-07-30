@@ -63,17 +63,17 @@ const NavBar = () => {
                 Projects
               </a>
               <a
-                href="/#my-journey"
+                href="/my-journey"
                 className="mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#ffffff] hover:bg-indigo-500"
               >
                 My journey
               </a>
-              <a
+{/*               <a
                 href="#"
                 className="mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#ffffff] hover:bg-indigo-500"
               >
                 Let's Talk
-              </a>
+              </a> */}
           </div>
         </div>
       </nav>
