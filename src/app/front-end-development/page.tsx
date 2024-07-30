@@ -49,7 +49,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
       </div>
-      <div className="w-full h-auto flex pb-[10%] justify-center items-center">
+      <div className="w-full h-auto lg:flex pb-[10%] justify-center items-center">
       <div className="w-[45%] h-full px-[10%]">
           <h2 className="my-font text-[3vw] text-left  my-[5%] w-[80%]">Gooey</h2>
           <p className="mb-[10%]">A modern bakery website crafted with Next.js, highlighting delectable baked goods with efficient server-side rendering. Deployed via Cloudflare for enhanced performance, security, and fast global content delivery. Ideal for bakeries looking to expand their online reach, providing customers with a seamless browsing experience and quick access to the latest treats and offerings.</p>
@@ -72,7 +72,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
       </div>
-      <div className="w-full h-auto flex pb-[10%] justify-center items-center">
+      <div className="w-full h-auto lg:flex pb-[10%] justify-center items-center">
         <div className="w-[55%] h-auto bg-zinc-500 rounded-r-3xl py-2 pr-2 overflow-hidden">
           <div className="w-full h-auto overflow-hidden rounded-r-3xl">
             <Image
@@ -97,7 +97,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
       </div>
-      <div className="w-full h-auto flex pb-[10%] justify-center items-center">
+      <div className="w-full h-auto lg:flex pb-[10%] justify-center items-center">
       <div className="w-[45%] h-full px-[10%]">
           <h2 className="my-font text-[3vw] text-left  my-[5%] w-[80%]">Portfolio</h2>
           <p className="mb-[10%]">The Minimal Voice Assistant and Chat Bot Portfolio is a unique and innovative showcase designed to highlight the integration of a simplistic yet efficient voice assistant and chat bot within a personal portfolio website. This portfolio stands out by incorporating two interactive elements: a voice assistant and a chat bot, built using HTML, CSS, and JavaScript.</p>
@@ -122,7 +122,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
       </div>
-      <div className="w-full h-auto flex justify-center items-center pb-[10%]">
+      <div className="w-full h-auto lg:flex justify-center items-center pb-[10%]">
         <div className="w-[55%] h-auto bg-zinc-500 rounded-r-3xl py-2 pr-2 overflow-hidden">
           <div className="w-full h-auto overflow-hidden rounded-r-3xl">
             <Image
@@ -147,7 +147,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
       </div>
-      <div className="w-full h-auto flex pb-[10%] justify-center items-center">
+      <div className="w-full h-auto lg:flex pb-[10%] justify-center items-center">
       <div className="w-[45%] h-full px-[10%]">
           <h2 className="my-font text-[3vw] text-left  my-[5%] w-[80%]">Video Editor</h2>
           <p className="mb-[10%]">web application that empowers users to edit and enhance videos directly within their web browser. Built with HTML, CSS, and JavaScript, this innovative platform offers a seamless and intuitive editing experience.</p>
@@ -172,7 +172,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
       </div>
-      <div className="w-full h-auto flex justify-center items-center pb-[10%]">
+      <div className="w-full h-auto lg:flex justify-center items-center pb-[10%]">
         <div className="w-[55%] h-auto bg-zinc-500 rounded-r-3xl py-2 pr-2 overflow-hidden">
           <div className="w-full h-auto overflow-hidden rounded-r-3xl">
             <Image
