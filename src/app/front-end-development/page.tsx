@@ -73,15 +73,6 @@ export default function FrontEndDevelopment() {
             />
           </div>
         </div>
-      </div><div className="w-full h-auto flex justify-center items-center">
-        <div className="w-full h-auto pb-[6%]">
-          <h1 className="my-font text-[5vw] text-center pt-[15vh]"><TypingEffect text="Front-End Development" /></h1>
-          <div className="flex justify-center items-center mt-2 h-auto">
-            <div className="w-[50%] h-auto flex justify-center items-center flex-row flex-wrap">
-              {skills.map((skill) => <><div className="mx-3 my-3 px-[3%] py-2 bg-indigo-500 my-font text-[1vw] rounded-lg">{skill}</div></>)}
-            </div>
-          </div>
-        </div>
       </div>
       <div className="w-full h-auto flex pb-[10%] justify-center items-center">
         <div className="w-[55%] h-auto bg-zinc-500 rounded-r-3xl py-2 pr-2 overflow-hidden">
