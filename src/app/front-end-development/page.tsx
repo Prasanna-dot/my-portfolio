@@ -51,7 +51,7 @@ export default function FrontEndDevelopment() {
       </div>
       <div className="w-full h-auto flex pb-[10%] justify-center items-center lg:flex-row flex-col-reverse">
       <div className="lg:w-[45%] w-full h-full px-[10%]">
-          <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">Gooey</h2>
+          <h2 className="my-font lg:text-[3vw] text-[9vw] lg:text-left my-[5%] lg:w-[80%] text-right w-full">Gooey</h2>
           <p className="mb-[10%]">A modern bakery website crafted with Next.js, highlighting delectable baked goods with efficient server-side rendering. Deployed via Cloudflare for enhanced performance, security, and fast global content delivery. Ideal for bakeries looking to expand their online reach, providing customers with a seamless browsing experience and quick access to the latest treats and offerings.</p>
           <div className="flex lg:justify-end">
             <a href="https://gooye.pages.dev" target="blank">
@@ -86,7 +86,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
         <div className="lg:w-[45%] w-full h-full px-[10%]">
-          <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">Freshclass</h2>
+          <h2 className="my-font lg:text-[3vw] text-[9vw] lg:text-left text-right my-[5%] lg:w-[80%] w-full">Freshclass</h2>
           <p className="mb-[10%]">The People Management System is a comprehensive web application designed for efficient management of personnel information within an organization. Built using HTML, CSS, JavaScript, and a mock API for data storage, this system provides a centralized platform for managing employee details, roles, and access levels.An admin login is provided with credentials (email: admin@freshclass.com, password: Admin@2021)</p>
           <div className="flex">
             <a href="https://freshclass.pages.dev/" target="blank">
@@ -149,7 +149,7 @@ export default function FrontEndDevelopment() {
       </div>
       <div className="w-full h-auto flex pb-[10%] justify-center items-center">
       <div className="lg:w-[45%] w-full h-full px-[10%]">
-          <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">Video Editor</h2>
+          <h2 className="my-font lg:text-[3vw] text-[9vw] lg:text-left text-right my-[5%] lg:w-[80%] w-full">Video Editor</h2>
           <p className="mb-[10%]">web application that empowers users to edit and enhance videos directly within their web browser. Built with HTML, CSS, and JavaScript, this innovative platform offers a seamless and intuitive editing experience.</p>
           <div className="flex sm:justify-end">
             <a href="https://my-project-2.pages.dev" target="blank">
