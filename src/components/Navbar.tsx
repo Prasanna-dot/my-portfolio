@@ -104,7 +104,7 @@ const NavBar = () => {
             </button>
           </div>
           <div className="h-[80vh] flex justify-center items-center">
-            <div className="w-[30%] h-auto text-center">
+            <div className="w-full h-auto text-center">
                        <a
                 href="/"
                 className="font mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#ffffff] hover:bg-indigo-500"
