@@ -97,7 +97,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
       </div>
-      <div className="w-full h-auto flex pb-[10%] justify-center items-center">
+      <div className="w-full h-auto flex pb-[10%] justify-center items-center lg:flex-row flex-col-reverse">
       <div className="lg:w-[45%] w-full h-full px-[10%]">
           <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">Portfolio</h2>
           <p className="mb-[10%] sm:text-right">The Minimal Voice Assistant and Chat Bot Portfolio is a unique and innovative showcase designed to highlight the integration of a simplistic yet efficient voice assistant and chat bot within a personal portfolio website. This portfolio stands out by incorporating two interactive elements: a voice assistant and a chat bot, built using HTML, CSS, and JavaScript.</p>
@@ -147,7 +147,7 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
       </div>
-      <div className="w-full h-auto flex pb-[10%] justify-center items-center">
+      <div className="w-full h-auto flex pb-[10%] justify-center items-center lg:flex-row flex-col-reverse">
       <div className="lg:w-[45%] w-full h-full px-[10%]">
           <h2 className="my-font lg:text-[3vw] text-[9vw] lg:text-left text-right my-[5%] lg:w-[80%] w-full">Video Editor</h2>
           <p className="mb-[10%] sm:text-right">web application that empowers users to edit and enhance videos directly within their web browser. Built with HTML, CSS, and JavaScript, this innovative platform offers a seamless and intuitive editing experience.</p>
