@@ -59,8 +59,8 @@ export default function FrontEndDevelopment() {
             </a>
           </div>
         </div>
-        <div className="lg:w-[55%] w-[90%] h-auto bg-zinc-500 rounded-l-3xl py-2 pl-2 overflow-hidden">
-          <div className="w-full h-auto overflow-hidden rounded-l-3xl sm:block sm:ml-auto">
+        <div className="lg:w-[55%] w-[90%] h-auto bg-zinc-500 rounded-l-3xl py-2 pl-2 overflow-hidden sm:block sm:ml-auto">
+          <div className="w-full h-auto overflow-hidden rounded-l-3xl">
             <Image
               src={gooey}
               alt={""}
@@ -109,7 +109,7 @@ export default function FrontEndDevelopment() {
             </a>
           </div>
         </div>
-        <div className="lg:w-[55%] w-[90%] h-auto bg-zinc-500 rounded-l-3xl py-2 pl-2 overflow-hidden">
+        <div className="lg:w-[55%] w-[90%] h-auto bg-zinc-500 rounded-l-3xl py-2 pl-2 overflow-hidden sm:block sm:ml-auto">
           <div className="w-full h-auto overflow-hidden rounded-l-3xl">
             <Image
               src={Portfolio}
@@ -159,7 +159,7 @@ export default function FrontEndDevelopment() {
             </a>
           </div>
         </div>
-        <div className="lg:w-[55%] w-[90%] h-auto bg-zinc-500 rounded-l-3xl py-2 pl-2 overflow-hidden">
+        <div className="lg:w-[55%] w-[90%] h-auto bg-zinc-500 rounded-l-3xl py-2 pl-2 overflow-hidden sm:block sm:ml-auto">
           <div className="w-full h-auto overflow-hidden rounded-l-3xl">
             <Image
               src={VideoEditor}
