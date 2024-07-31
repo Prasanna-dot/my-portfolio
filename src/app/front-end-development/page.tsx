@@ -18,10 +18,10 @@ export default function FrontEndDevelopment() {
     <section className='div_backgrounds h-auto w-full'>
       <div className="w-full h-auto flex justify-center items-center">
         <div className="w-full h-auto pb-[6%]">
-          <h1 className="my-font lg:text-[5vw] text-[9vw] text-center pt-[15vh]"><TypingEffect text="Front-End Development" /></h1>
+          <h1 className="my-font lg:text-[5vw] text-[9vw] text-center pt-[15vh] text-white"><TypingEffect text="Project" /></h1>
           <div className="flex justify-center items-center mt-2 h-auto">
             <div className="w-full lg:w-[50%] h-auto flex justify-center items-center flex-row flex-wrap">
-              {skills.map((skill) => <><div className="mx-3 my-3 px-[3%] py-2 bg-indigo-500 my-font text-sm lg:text-[1vw] rounded-lg">{skill}</div></>)}
+              {skills.map((skill) => <><div className="mx-3 my-3 px-[3%] py-2 bg-indigo-500 my-font text-sm lg:text-[1vw] rounded-lg text-white">{skill}</div></>)}
             </div>
           </div>
         </div>
@@ -40,8 +40,8 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
         <div className="lg:w-[45%] w-full h-full px-[10%]">
-          <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] w-[80%]">TeenTechy</h2>
-          <p className="mb-[10%]">The Development for Everyone website is an inclusive online platform dedicated to teaching web development skills to individuals of all backgrounds, offering free and accessible resources. Using HTML, CSS, and JavaScript, this website aims to empower learners with fundamental knowledge and practical guidance in website development.</p>
+          <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] w-[80%]  text-white">TeenTechy</h2>
+          <p className="mb-[10%]  text-white">The Development for Everyone website is an inclusive online platform dedicated to teaching web development skills to individuals of all backgrounds, offering free and accessible resources. Using HTML, CSS, and JavaScript, this website aims to empower learners with fundamental knowledge and practical guidance in website development.</p>
           <div className="flex">
             <a href="https://teentechy.com" target="blank">
             <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="#fff" viewBox="0 0 512 512"><path d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64H348.7c2.2 20.4 3.3 41.8 3.3 64zm28.8-64H503.9c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 20.9 58.2 27 94.7zm-209 0H18.6C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192H131.2c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6H344.3c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352H135.3zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6H493.4z" /></svg>
@@ -51,8 +51,8 @@ export default function FrontEndDevelopment() {
       </div>
       <div className="w-full h-auto flex pb-[10%] justify-center items-center lg:flex-row flex-col-reverse">
       <div className="lg:w-[45%] w-full h-full px-[10%]">
-          <h2 className="my-font lg:text-[3vw] text-[9vw] lg:text-left my-[5%] lg:w-[80%] text-right w-full">Gooey</h2>
-          <p className="mb-[10%] lg:text-left text-right">A modern bakery website crafted with Next.js, highlighting delectable baked goods with efficient server-side rendering. Deployed via Cloudflare for enhanced performance, security, and fast global content delivery. Ideal for bakeries looking to expand their online reach, providing customers with a seamless browsing experience and quick access to the latest treats and offerings.</p>
+          <h2 className="my-font lg:text-[3vw] text-[9vw] lg:text-left my-[5%] lg:w-[80%] text-right w-full  text-white">Gooey</h2>
+          <p className="mb-[10%] lg:text-left text-right  text-white">A modern bakery website crafted with Next.js, highlighting delectable baked goods with efficient server-side rendering. Deployed via Cloudflare for enhanced performance, security, and fast global content delivery. Ideal for bakeries looking to expand their online reach, providing customers with a seamless browsing experience and quick access to the latest treats and offerings.</p>
           <div className="flex lg:justify-start justify-end">
             <a href="https://gooye.pages.dev" target="blank">
             <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="#fff" viewBox="0 0 512 512"><path d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64H348.7c2.2 20.4 3.3 41.8 3.3 64zm28.8-64H503.9c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 20.9 58.2 27 94.7zm-209 0H18.6C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192H131.2c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6H344.3c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352H135.3zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6H493.4z" /></svg>
@@ -86,8 +86,8 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
         <div className="lg:w-[45%] w-full h-full px-[10%]">
-          <h2 className="my-font lg:text-[3vw] text-[9vw] my-[5%] text-left lg:w-[80%] w-full">Freshclass</h2>
-          <p className="mb-[10%]">The People Management System is a comprehensive web application designed for efficient management of personnel information within an organization. Built using HTML, CSS, JavaScript, and a mock API for data storage, this system provides a centralized platform for managing employee details, roles, and access levels.An admin login is provided with credentials (email: admin@freshclass.com, password: Admin@2021)</p>
+          <h2 className="my-font lg:text-[3vw] text-[9vw] my-[5%] text-left lg:w-[80%] w-full  text-white">Freshclass</h2>
+          <p className="mb-[10%]  text-white">The People Management System is a comprehensive web application designed for efficient management of personnel information within an organization. Built using HTML, CSS, JavaScript, and a mock API for data storage, this system provides a centralized platform for managing employee details, roles, and access levels.An admin login is provided with credentials (email: admin@freshclass.com, password: Admin@2021)</p>
           <div className="flex">
             <a href="https://freshclass.pages.dev/" target="blank">
             <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="#fff" viewBox="0 0 512 512"><path d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64H348.7c2.2 20.4 3.3 41.8 3.3 64zm28.8-64H503.9c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 20.9 58.2 27 94.7zm-209 0H18.6C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192H131.2c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6H344.3c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352H135.3zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6H493.4z" /></svg>
@@ -99,8 +99,8 @@ export default function FrontEndDevelopment() {
       </div>
       <div className="w-full h-auto flex pb-[10%] justify-center items-center lg:flex-row flex-col-reverse">
       <div className="lg:w-[45%] w-full h-full px-[10%]">
-          <h2 className="my-font lg:text-[3vw] text-[9vw] lg:text-left text-right my-[5%] lg:w-[80%] w-full">Portfolio</h2>
-          <p className="mb-[10%] lg:text-left text-right">The Minimal Voice Assistant and Chat Bot Portfolio is a unique and innovative showcase designed to highlight the integration of a simplistic yet efficient voice assistant and chat bot within a personal portfolio website. This portfolio stands out by incorporating two interactive elements: a voice assistant and a chat bot, built using HTML, CSS, and JavaScript.</p>
+          <h2 className="my-font lg:text-[3vw] text-[9vw] lg:text-left text-right my-[5%] lg:w-[80%] w-full  text-white">Portfolio</h2>
+          <p className="mb-[10%] lg:text-left text-right  text-white">The Minimal Voice Assistant and Chat Bot Portfolio is a unique and innovative showcase designed to highlight the integration of a simplistic yet efficient voice assistant and chat bot within a personal portfolio website. This portfolio stands out by incorporating two interactive elements: a voice assistant and a chat bot, built using HTML, CSS, and JavaScript.</p>
           <div className="flex lg:justify-start justify-end">
             <a href="https://my-portfolio-website-1br.pages.dev/" target="blank">
             <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="#fff" viewBox="0 0 512 512"><path d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64H348.7c2.2 20.4 3.3 41.8 3.3 64zm28.8-64H503.9c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 20.9 58.2 27 94.7zm-209 0H18.6C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192H131.2c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6H344.3c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352H135.3zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6H493.4z" /></svg>
@@ -136,8 +136,8 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
         <div className="lg:w-[45%] w-full h-full px-[10%]">
-          <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">3TE Carwash</h2>
-          <p className="mb-[10%]">Welcome to CarWash, where we redefine car care excellence. Our website provides a seamless platform for car owners to discover our premium car wash services, schedule appointments, and experience the ultimate in vehicle pampering.</p>
+          <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full  text-white">3TE Carwash</h2>
+          <p className="mb-[10%]  text-white">Welcome to CarWash, where we redefine car care excellence. Our website provides a seamless platform for car owners to discover our premium car wash services, schedule appointments, and experience the ultimate in vehicle pampering.</p>
           <div className="flex">
             <a href="https://carwash-6xd.pages.dev" target="blank">
             <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="#fff" viewBox="0 0 512 512"><path d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64H348.7c2.2 20.4 3.3 41.8 3.3 64zm28.8-64H503.9c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 20.9 58.2 27 94.7zm-209 0H18.6C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192H131.2c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6H344.3c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352H135.3zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6H493.4z" /></svg>
@@ -149,8 +149,8 @@ export default function FrontEndDevelopment() {
       </div>
       <div className="w-full h-auto flex pb-[10%] justify-center items-center lg:flex-row flex-col-reverse">
       <div className="lg:w-[45%] w-full h-full px-[10%]">
-          <h2 className="my-font lg:text-[3vw] text-[9vw] lg:text-left text-right my-[5%] lg:w-[80%] w-full">Video Editor</h2>
-          <p className="mb-[10%] lg:text-left text-right">web application that empowers users to edit and enhance videos directly within their web browser. Built with HTML, CSS, and JavaScript, this innovative platform offers a seamless and intuitive editing experience.</p>
+          <h2 className="my-font lg:text-[3vw] text-[9vw] lg:text-left text-right my-[5%] lg:w-[80%] w-full text-white">Video Editor</h2>
+          <p className="mb-[10%] lg:text-left text-right text-white">web application that empowers users to edit and enhance videos directly within their web browser. Built with HTML, CSS, and JavaScript, this innovative platform offers a seamless and intuitive editing experience.</p>
           <div className="flex lg:justify-start justify-end">
             <a href="https://my-project-2.pages.dev" target="blank">
             <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="#fff" viewBox="0 0 512 512"><path d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64H348.7c2.2 20.4 3.3 41.8 3.3 64zm28.8-64H503.9c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 20.9 58.2 27 94.7zm-209 0H18.6C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192H131.2c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6H344.3c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352H135.3zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6H493.4z" /></svg>
@@ -186,8 +186,8 @@ export default function FrontEndDevelopment() {
           </div>
         </div>
         <div className="lg:w-[45%] w-full h-full px-[10%]">
-          <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full">Iphone</h2>
-          <p className="mb-[10%]">In a time-crunch challenge, my friend dared me to craft a captivating homepage brimming with UI design effects within a mere hour – a thrilling race against the clock ensued. I have made it with HTML, CSS, Javascript</p>
+          <h2 className="my-font lg:text-[3vw] text-[9vw] text-left my-[5%] lg:w-[80%] w-full text-white">Iphone</h2>
+          <p className="mb-[10%] text-white">In a time-crunch challenge, my friend dared me to craft a captivating homepage brimming with UI design effects within a mere hour – a thrilling race against the clock ensued. I have made it with HTML, CSS, Javascript</p>
           <div className="flex">
             <a href="https://iphone-91c.pages.dev/" target="blank">
             <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="#fff" viewBox="0 0 512 512"><path d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64H348.7c2.2 20.4 3.3 41.8 3.3 64zm28.8-64H503.9c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 20.9 58.2 27 94.7zm-209 0H18.6C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192H131.2c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6H344.3c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352H135.3zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6H493.4z" /></svg>
