@@ -62,12 +62,12 @@ const NavBar = () => {
               >
                 Projects
               </a>
-              <a
+{/*               <a
                 href="/my-journey"
                 className="mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#ffffff] hover:bg-indigo-500"
               >
                 My journey
-              </a>
+              </a> */}
 {/*               <a
                 href="#"
                 className="mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#ffffff] hover:bg-indigo-500"
@@ -117,12 +117,12 @@ const NavBar = () => {
               >
                 Projects
               </a>
-              <a
+{/*               <a
                 href="/my-journey"
                 className="mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#ffffff] hover:bg-indigo-500"
               >
                 My journey
-              </a>
+              </a> */}
 {/*               <a
                 href="#"
                 className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-[#825846] hover:bg-gray-50"
