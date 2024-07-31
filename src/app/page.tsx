@@ -10,7 +10,7 @@ export default function Home() {
       <div className='overflow-hidden'></div>
       <section className='div_backgrounds h-[100vh] w-full flex justify-center items-center' id='home'>
         <div className='w-[65%]'>
-          <h1 className='my-font w-full text-left text-[6vw] text-white'><TypingEffect text="Heey, It's Prasanna venkatesh. Full stack developer" /></h1>
+          <h1 className='my-font w-full text-left text-[6vw] text-white'><TypingEffect text="Heey, It's Prasanna venkatesh. Frontend developer" /></h1>
         </div>
       </section>
 {/*         <section className='div_backgrounds h-[100vh] flex justify-center items-center' id='project'>
